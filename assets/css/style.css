@@ -2,6 +2,9 @@
 .center {
     text-align: center;
 }
+.justify{
+    text-align: justify;
+}
 
 .container {
     display: flex;
@@ -45,3 +48,7 @@
 }
 
 /*Estilos da página contato.html*/
+
+.ml-50{
+    margin-left: 50px;
+}
